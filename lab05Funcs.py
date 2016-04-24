@@ -144,7 +144,7 @@ def smallestInt(listOfInts):
     parameter is not a list consisting only of ints
 
     By "smallest", we mean a value that is no larger than any other
-    value in the l  There may be more than one instance of that value.
+    value in the list.  There may be more than one instance of that value.
     Example:  in [7,3,3,7],3 is smallest
 
  
