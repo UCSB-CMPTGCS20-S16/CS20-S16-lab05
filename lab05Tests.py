@@ -1,6 +1,4 @@
-# @@@ INSERT YOUR NAME HERE
-
-# lab05Tests.py    Tests for lab05, UCSB CS8, P. Conrad, 04/15/2014
+# lab05Tests.py    Tests for lab05, UCSB CS8/CS20, P. Conrad, 04/15/2014
 
 import unittest            
 from lab05Funcs import *   
