@@ -41,14 +41,12 @@ In IDLE, select "File=&gt;New Window" to open a new "untitled" window for Python
 
 When it comes up, click and drag the window by its title bar over to the right of your Python Shell window.
 
-Now, open one of these links and copy-paste into your new untitled file. (You may want to "right click", or on Mac, "control-click", to open it in a new window or tab.)
+Now, open one of these links and copy-paste into your new window. (You may want to "right click", or on Mac, "control-click", to open it in a new window or tab.)
 
 * As a plain file: [lab05Funcs.py](https://raw.githubusercontent.com/UCSB-CMPTGCS20-S16/CS20-S16-lab05/master/lab05Funcs.py)
 * On github: [lab05Funcs.py on github](https://github.com/UCSB-CMPTGCS20-S16/CS20-S16-lab05/blob/master/lab05Funcs.py)
 
 Use the "Save As" option to save that file in the`~/cs20/lab05` folder with the name `lab05Funcs.py`
-
-Alternatively, from the front page of the repository, [UCSB-CMPTGCS20-S16/CS20-S16-lab05](https://github.com/UCSB-CMPTGCS20-S16/CS20-S16-lab05), right click `lab05Funcs.py` and use the "Save Link As" option to save that file in the `~/cs20/lab05` folder with the name `lab05Funcs.py`
 
 Step 2: Copy some more code from `lab05Tests.py`
 -----------------------------------------------
@@ -64,8 +62,6 @@ In IDLE, select "File=&gt;New Window" *again* to open *yet another* new "untitle
 * On github: [lab05Tests.py on github](https://github.com/UCSB-CMPTGCS20-S16/CS20-S16-lab05/blob/master/lab05Tests.py)
 
 Use the "Save As" option to save that file in the`~/cs20/lab05` folder with the name `lab05Tests.py`
-
-Or, use the same alternate method from Step 1.
 
 Remember that upper vs. lower case matter. Save it again if you didn't get it exactly right the first time, and use the `rm` command to remove (delete) any files that are in the wrong place.
 
