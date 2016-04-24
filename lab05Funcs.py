@@ -1,5 +1,5 @@
 #  lab05Funcs.py
-#   Starting point for lab05, CS8, 04/29/2014
+#   Starting point for lab05, CS8/CS20, 04/29/2014
 #   Exercises for working with lists
 
 
