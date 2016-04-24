@@ -65,12 +65,12 @@ Use the "Save As" option to save that file in the`~/cs20/lab05` folder with the 
 
 Remember that upper vs. lower case matter. Save it again if you didn't get it exactly right the first time, and use the `rm` command to remove (delete) any files that are in the wrong place.
 
-Once you see that you have lab05Funcs.py and lab05Tests.py under your `~/cs20/lab05` directory, you are good to move on to the next step.
+Once you see that you have `lab05Funcs.py` and `lab05Tests.py` under your `~/cs20/lab05` directory, you are good to move on to the next step.
 
 Step 3: Importing functions from our lab02 file
 -----------------------------------------------
 
-Take a look inside your lab05Funcs.py file, and you'll see this line near the top:
+Take a look inside your `lab05Funcs.py` file, and you'll see this line near the top:
 
     from lab02Funcs import isList
 
@@ -78,11 +78,11 @@ What we are doing here is pulling in a function from our lab02 work.
 
 We are going to NEED an isList function to do the work for lab05. But, we don't want to have to write those functions from scratch.
 
-So we can REUSE the code. All we have to do is copy over the lab02Funcs.py file from our lab02 directory into our lab05 directory.
+So we can REUSE the code. All we have to do is copy over the `lab02Funcs.py` file from our lab02 directory into our lab05 directory.
 
-So, make a copy of your lab02Funcs.py from the earlier lab, and put it in the same folder/directory with your lab05Funcs.py and lab05Tests.py files.
+So, make a copy of your `lab02Funcs.py` from the earlier lab, and put it in the same folder/directory with your `lab05Funcs.py` and `lab05Tests.py` files.
 
-When you've copied the lab02Funcs.py file over, and you see that you have all three files that we are going to need for this week's lab, you can get started on the programming part.
+When you've copied the `lab02Funcs.py` file over, and you see that you have all three files that we are going to need for this week's lab, you can get started on the programming part.
 
 Step 4: Fixing function stubs, adding functions, adding tests
 -------------------------------------------------------------
