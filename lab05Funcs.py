@@ -3,10 +3,10 @@
 #   Exercises for working with lists
 
 
-# @@@ Copy lab03Funcs.py into your lab05 directory 
+# @@@ Copy lab02Funcs.py into your lab05 directory 
 # @@@ So that this function works
 
-from lab03Funcs import isList
+from lab02Funcs import isList
 
 
 # @@@ READ OVER THIS FUNCTION---Then delete this @@@ Comment
