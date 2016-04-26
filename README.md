@@ -167,12 +167,12 @@ Step 6: Submit your assignment via submit.cs
 -------------------------------------------------------
 
 @@@@@@ UPDATE THIS LINK AND THE COMMAND
-Here's the link: https://submit.cs.ucsb.edu/form/project/471/submission
+Here's the link: https://submit.cs.ucsb.edu/form/project/473/submission
 
 If you happen to be working on CSIL, you can also submit by typing
 
 ```
-~submit/submit -p 471 lab02Funcs.py lab04Funcs.py
+~submit/submit -p 473 lab02Funcs.py lab05Funcs.py lab05Tests.py
 ```
 
 Evaluation and Grading
